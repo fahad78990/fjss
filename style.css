@@ -81,3 +81,31 @@ p {
     right: 30px;
     z-index: 10
 }
+.links {
+    float: left;
+    color: fuchsia;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: fantasy;
+    font-size: 20px
+}
+
+.links:hover {
+    background-color: aqua;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+.article:hover {
+    color:fuchsia;
+}
+
